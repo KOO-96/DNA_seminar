@@ -24,7 +24,6 @@ pytorch\
 GoogLeNet\
 ResNet\
 코드 실습
-## weeks5
-GoogLeNet\
-ResNet\
-코드 실습
+## weeks6
+코드실습 및 마무리\
+예측
