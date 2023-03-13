@@ -18,5 +18,13 @@ Backbone
 VGG Net\
 GoogLeNet
 ## weeks4
-VGG Net\
-GoogLeNet
+pytorch\
+코드 실습
+## weeks5
+GoogLeNet\
+ResNet\
+코드 실습
+## weeks5
+GoogLeNet\
+ResNet\
+코드 실습
