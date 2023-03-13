@@ -8,3 +8,15 @@
 CNN\
 기울기소실과 과적합 문제
 ## weeks2
+Transfer Learning (전이 학습)
+Feature Extraction\
+Imagenet Chanllenge\
+Transfer Learning\
+Fine Tuning\
+Backbone
+## weeks3
+VGG Net\
+GoogLeNet
+## weeks4
+VGG Net\
+GoogLeNet
