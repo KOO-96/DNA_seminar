@@ -28,3 +28,6 @@ ResNet\
 코드실습 및 마무리\
 예측:
 **최종적으로 92.45%의 분류 모델 설계할 수 있었습니다.**
+##
+처음 관심이 없이 뭐라도 하자라는 생각에 참여했던 DNA 주관의 Seminar였습니다.\
+[![inhovation97](https://github.com/inhovation97)]
