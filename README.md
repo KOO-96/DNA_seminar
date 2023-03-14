@@ -3,6 +3,10 @@
 > 1월 19일 목요일부터 진행해서 매주 목요일 세미나 참석
 
 # Image Classification
+![dolphin](https://user-images.githubusercontent.com/113090595/224989781-c059d177-53fe-49fd-84d2-505639ddec36.jpg)
+![shark](https://user-images.githubusercontent.com/113090595/224989652-99c00035-c4a1-4307-b3da-2bebe12f99b5.jpg)
+![whale](https://user-images.githubusercontent.com/113090595/224989424-f9d557a0-deb4-4f56-958e-2180ee51c36b.jpg)\
+__dolphin,shark,whale의 이미지 분류__
 
 ## weeks1
 머신러닝과 딥러닝\
