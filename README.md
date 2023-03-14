@@ -1,12 +1,11 @@
 # DNA_seminar
 > DNA computer_vision seminar
-> 1월 19일 목요일부터 진행해서 매주 목요일 세미나 참석
 
 # Image Classification
 ![dolphin](https://user-images.githubusercontent.com/113090595/224989781-c059d177-53fe-49fd-84d2-505639ddec36.jpg)
 ![shark](https://user-images.githubusercontent.com/113090595/224989652-99c00035-c4a1-4307-b3da-2bebe12f99b5.jpg)
 ![whale](https://user-images.githubusercontent.com/113090595/224989424-f9d557a0-deb4-4f56-958e-2180ee51c36b.jpg)\
-__dolphin,shark,whale의 이미지 분류__
+__Dolphin, Shark, Whale Image Classification__
 
 ## weeks1
 머신러닝과 딥러닝\
@@ -33,7 +32,7 @@ ResNet\
 ## weeks6
 코드실습 및 마무리\
 예측:
-**최종적으로 92.45%의 분류 모델 설계할 수 있었습니다.**
+**최종적으로 92.45%의 분류 모델 생성에 성공하였습니다.**
 ##
 DNA 주관의 Seminar에 참여하게 었습니다.\
 매주 참여를 하면서 가지게된 관심이 실력 향상에 도움이 되었습니다.
