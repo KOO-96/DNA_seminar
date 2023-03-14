@@ -1,6 +1,8 @@
 # DNA_seminar
 > DNA computer_vision seminar
-> 1월 19일 목요일부터 진행해서 매주 목요일 세미나 참석(On/Off line)
+> 1월 19일 목요일부터 진행해서 매주 목요일 세미나 참석
+
+# Image Classification
 
 ## weeks1
 머신러닝과 딥러닝\
