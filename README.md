@@ -37,3 +37,5 @@ ResNet\
 DNA 주관의 Seminar에 참여하게 었습니다.\
 매주 참여를 하면서 가지게된 관심이 실력 향상에 도움이 되었습니다.
 차후에 Seminar를 통해 진행했던 프로젝트의 배움을 통해서 새로운 프로젝트 도전할 계획입니다.
+
+![Computer_vision_seminar](https://github.com/inhovation97/Computer_vision_seminar)
